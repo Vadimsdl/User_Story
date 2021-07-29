@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+}
+.main-list {
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: table;
+}
+.task {
+  margin: 10px 0;
+}
+
+.text-li {
+  font-size: 20px;
+  margin: 0 20px;
+}
+.listul {
+  margin: 5px 0;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: table;
+}
+.listul > .task {
+  margin: 5px 0;
+}
+.listul .text-li {
+  font-size: 17px;
+  margin: 0 10px;
+}
